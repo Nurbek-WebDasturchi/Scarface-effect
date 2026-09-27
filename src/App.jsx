@@ -27,7 +27,7 @@ class App extends Component {
           </button>
           <video width="100%" className="mt-5 d-none" id="video">
             <source
-              src="../public/videos/SAY-HELLO-TO-MY-LITTLE-FRIEND.mp4"
+              src="/videos/SAY-HELLO-TO-MY-LITTLE-FRIEND.mp4"
               type="video/mp4"
             />
             Your browser does not support the video tag.
