@@ -1,0 +1,9 @@
+.app {
+  padding: 10px;
+  height: 100%;
+}
+@media (min-width: 768px) {
+  video {
+    height: 500px;
+  }
+}

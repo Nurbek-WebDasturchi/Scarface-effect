@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: #212121;
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 66px;
+  letter-spacing: -1.68px;
+  color: aqua;
+}
